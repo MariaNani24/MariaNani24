@@ -1,14 +1,14 @@
 # Hi There, I'm maria
 
 ## About me:
--Nama             : Maria Nani
--Tempat,Tgl Lahir : Manganitu, 24-11-2002
--Alamat           : Kampung Barangka
--Jenis Kelamin    : Perempuan
--Agama            : Protestan
--Status           : Mahasiswa
--Email            : marianani2411@gmail.com
--Nomor Hp         : 08229066####
+- Nama             : Maria Nani
+- Tempat,Tgl Lahir : Manganitu, 24-11-2002
+- Alamat           : Kampung Barangka
+- Jenis Kelamin    : Perempuan
+- Agama            : Protestan
+- Status           : Mahasiswa
+- Email            : marianani2411@gmail.com
+- Nomor Hp         : 08229066####
 
 ## Education
 
